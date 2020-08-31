@@ -15,5 +15,5 @@ Today we will explore this problem using the power of machine learning.
 ### Decision Assumptions & Confusion Matrix
 ![Decision Assumptions & Confusion Matrix](https://github.com/guo-pei/who-is-a-potential-customer/blob/master/pirctures/confusion-matrix.png)
 
-### Finds & Suggestions
+### Findings & Suggestions
 ![Finds & Suggestions](https://github.com/guo-pei/who-is-a-potential-customer/blob/master/pirctures/Results-Suggestions.png)
